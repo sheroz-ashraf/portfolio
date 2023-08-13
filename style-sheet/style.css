@@ -1,7 +1,4 @@
 @import'utilites.css';
-* {
-    background-color: red;
-}
 
 :root {
     --primary: #3dcfd3;
